@@ -1,0 +1,40 @@
+### Footprint positions - created on 2025-12-07T00:53:25-0800 ###
+### Printed by KiCad version 9.0.3
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                          Package                                   PosX       PosY       Rot  Side
+C1        1uF                          C_01005_0402Metric                    205.7800   -95.0200  -90.0000  top
+C2        0.1uF                        C_01005_0402Metric                    208.8100   -90.1500    0.0000  top
+C3        0.1uF                        C_01005_0402Metric                    203.9000   -81.2000   90.0000  top
+C4        0.1uF                        C_01005_0402Metric                    203.2000   -80.9400   90.0000  top
+C5        0.1uF                        C_01005_0402Metric                    206.8188   -84.3428   45.0000  top
+C6        0.1uF                        C_01005_0402Metric                    208.0000   -86.1900    0.0000  top
+C7        0.1uF                        C_01005_0402Metric                    198.2000   -89.6800  180.0000  top
+C8        0.1uF                        C_01005_0402Metric                    207.6300   -84.9950   90.0000  top
+C9        0.1uF                        C_01005_0402Metric                    199.0100   -85.1700   90.0000  top
+C10       1uF                          C_01005_0402Metric                    206.4500   -95.0200  -90.0000  top
+C11       0.1uF                        C_01005_0402Metric                    202.2300   -81.5200   90.0000  top
+C12       0.1uF                        C_01005_0402Metric                    206.0200   -83.7500   90.0000  top
+C13       10uF                         C_0603_1608Metric                     201.1700   -73.3600  180.0000  top
+C14       10uF                         C_0603_1608Metric                     199.0100   -67.9300  180.0000  top
+C15       33pF                         C_01005_0402Metric                    200.8100   -96.4600  -90.0000  top
+C16       33pF                         C_01005_0402Metric                    206.2600   -96.5800   90.0000  top
+C17       0.1uF                        C_01005_0402Metric                    202.4000   -80.1500   90.0000  top
+C18       0.1uF                        C_01005_0402Metric                    199.3800   -98.9400    0.0000  top
+J1        USB_C_Receptacle_USB2.0_14P  USB_C_Receptacle_HRO_TYPE-C-31-M-12   203.1450   -61.7850  180.0000  top
+R1        5.1K                         R_0402_1005Metric                     206.5300   -67.6600    0.0000  top
+R2        5.1K                         R_0402_1005Metric                     201.5100   -67.6200  180.0000  top
+R3        27                           R_0402_1005Metric                     203.8450   -83.3475  -90.0000  top
+R4        27                           R_0402_1005Metric                     204.8450   -83.3475  -90.0000  top
+R5        1K                           R_0402_1005Metric                     204.4700   -94.0800  180.0000  top
+R6        10K                          R_0402_1005Metric                     200.7600   -80.4400  180.0000  top
+R7        1K                           R_0402_1005Metric                     198.6600   -80.1700   90.0000  top
+R8        4.7K                         R_0402_1005Metric                     200.9800   -98.7700  180.0000  top
+R9        4.7K                         R_0402_1005Metric                     202.2600  -100.1900   90.0000  top
+SW1       SW_Push                      SW_Push_SPST_NO_Alps_SKRK             200.4200   -76.9000    0.0000  top
+U1        RP2040                       QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm   203.1450   -88.7850    0.0000  top
+U2        MCP1700x-330xxTT             SOT-23                                201.1900   -70.1000   90.0000  top
+U3        W25Q16JVZPIQ_TR              IC_W25Q16JVUXIQ_TR                    200.0000   -82.4000    0.0000  top
+U4        TSL25911FN                   AMS_TSL25911FN                        200.2325  -100.6500   90.0000  top
+Y1        12_MHz                       Crystal_SMD_3225-4Pin_3.2x2.5mm       203.2900   -96.3800  180.0000  top
+## End

@@ -1,0 +1,9 @@
+### Footprint positions - created on 2025-12-07T00:53:25-0800 ###
+### Printed by KiCad version 9.0.3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val         Package                               PosX       PosY       Rot  Side
+J2        Conn_01x20  PinHeader_1x20_P2.54mm_Vertical   194.2600   -60.6600  180.0000  bottom
+J3        Conn_01x20  PinHeader_1x20_P2.54mm_Vertical   212.0350   -60.6550  180.0000  bottom
+J4        Conn_01x03  PinHeader_1x03_P2.54mm_Vertical   200.6050  -108.6750  -90.0000  bottom
+## End
