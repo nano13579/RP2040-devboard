@@ -21,7 +21,7 @@ This is a dev board based upon the RP2040 microcontroller, a 32-bit dual-core AR
 | 10K 0402 Resistor | 1 | [link](https://jlcpcb.com/partdetail/259835-0105WHF1002TDE/C270305) | $0.01 |
 | MCP1700x-330xxTT | 1 | [link](https://jlcpcb.com/partdetail/MicrochipTech-MCP1700T_3302ETT/C39051) | $0.39 |
 | RP2040 | 1 | [link](https://jlcpcb.com/partdetail/RaspberryPi-RP2040/C2040) | $0.92 |
-| W25Q16JVZPIQ TR | 1 | [link](https://jlcpcb.com/partdetail/WinbondElec-W25Q16JVZPIQTR/C2456208) | $8.68 |
+| W25Q16JVZPIQ TR | 1 | [link](https://jlcpcb.com/partdetail/WinbondElec-W25Q16JVZPIQTR/C2456208) | $0.90 |
 | TSL25911FN | 1 | [link](https://jlcpcb.com/partdetail/AMS-TSL25911FN/C176812) | $1.74 |
 | 12 MHz Crystal | 1 | [link](https://jlcpcb.com/partdetail/SeikoEpson-X1G0044510028/C32540) | $0.80 |
 | Conn_01x20 (Pin Header) | 2 | [link](https://jlcpcb.com/partdetail/51993-2_54_1_20PStraightpin/C50981) | $0.21 |
@@ -29,4 +29,6 @@ This is a dev board based upon the RP2040 microcontroller, a 32-bit dual-core AR
 | USB-C Receptacle | 1 | [link](https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948) | $0.17 |
 | Switch | 1 | [link](https://jlcpcb.com/partdetail/CK-KMR241GLFS/C221682) | $0.81 |
 
-Total Cost + PCBA = $13.83 + $3.20 = $17.03 (not including tax)
+Total Parts Cost + PCBA + JLC Shipping = $13.83 + $3.20 + $24.26 = ($33.51 + taxes)*
+
+*no need for grant - paying everything out of pocket
