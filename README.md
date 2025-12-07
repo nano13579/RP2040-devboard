@@ -1,6 +1,6 @@
 # an rp2040 dev board
 
-This is a dev board based upon the rp2040 microcontroller, a 32-bit dual-core ARM Cortex-M0+. This board comes with flash memory, a 12 MHz crystal oscillator, and USB-C for power with an LDO.
+This is a dev board based upon the RP2040 microcontroller, a 32-bit dual-core ARM Cortex-M0+. This board comes with flash memory, a 12 MHz crystal oscillator, a USB-C for power with a Low-Dropout Regulator, and light sensing capabilites. 
 
 ![Schematic:](images/schematic.png)
 
